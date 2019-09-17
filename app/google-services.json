@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383630265444",
+    "firebase_url": "https://dev-rishtacem-consumer.firebaseio.com",
+    "project_id": "dev-rishtacem-consumer",
+    "storage_bucket": "dev-rishtacem-consumer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383630265444:android:9025f8b9bae372a357a371",
+        "android_client_info": {
+          "package_name": "com.crawlink.rishtacrmconsumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383630265444-7pq9f58viqhot4iuni1i2lbos1e9frog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Fru90cP8svGSwWMxmVfpXmt_wb9ZhNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383630265444-7pq9f58viqhot4iuni1i2lbos1e9frog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
